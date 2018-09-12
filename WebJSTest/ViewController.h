@@ -11,5 +11,7 @@
 @interface ViewController : UIViewController
 
 
+@property(nonatomic, strong) UIWebView *webView;
+@property(nonatomic, strong) id webViewJSContext;
 @end
 

@@ -13,9 +13,11 @@
 		EAC0ED472146A8FE00ECF045 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAC0ED462146A8FE00ECF045 /* Assets.xcassets */; };
 		EAC0ED4A2146A8FE00ECF045 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EAC0ED482146A8FE00ECF045 /* LaunchScreen.storyboard */; };
 		EAC0ED4D2146A8FE00ECF045 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC0ED4C2146A8FE00ECF045 /* main.m */; };
+		EAC0ED532146ABF700ECF045 /* test.js in Resources */ = {isa = PBXBuildFile; fileRef = BEF06A2A07007FB917D620FC /* test.js */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BEF06A2A07007FB917D620FC /* test.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = test.js; sourceTree = "<group>"; };
 		EAC0ED3A2146A8FC00ECF045 /* WebJSTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WebJSTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EAC0ED3D2146A8FC00ECF045 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		EAC0ED3E2146A8FC00ECF045 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -67,6 +69,7 @@
 				EAC0ED482146A8FE00ECF045 /* LaunchScreen.storyboard */,
 				EAC0ED4B2146A8FE00ECF045 /* Info.plist */,
 				EAC0ED4C2146A8FE00ECF045 /* main.m */,
+				BEF06A2A07007FB917D620FC /* test.js */,
 			);
 			path = WebJSTest;
 			sourceTree = "<group>";
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAC0ED532146ABF700ECF045 /* test.js in Resources */,
 				EAC0ED4A2146A8FE00ECF045 /* LaunchScreen.storyboard in Resources */,
 				EAC0ED472146A8FE00ECF045 /* Assets.xcassets in Resources */,
 				EAC0ED452146A8FC00ECF045 /* Main.storyboard in Resources */,
